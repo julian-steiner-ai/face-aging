@@ -143,3 +143,6 @@ GenerativeAdversarialNetwork-checkpoint*.ipynb
 # Azure amlignore
 .amlignore
 .amlignore.amltmp 
+
+02_PFA-GAN/materials/
+02_PFA-GAN/materials/*
