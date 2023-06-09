@@ -144,5 +144,21 @@ GenerativeAdversarialNetwork-checkpoint*.ipynb
 .amlignore
 .amlignore.amltmp 
 
-02_PFA-GAN/materials/
-02_PFA-GAN/materials/*
+01_GAN/data/
+01_GAN/data/*
+
+01_GAN/model/
+01_GAN/model/*
+
+02_PFA-GAN/data/
+02_PFA-GAN/data/*
+
+02_PFA-GAN/model/
+02_PFA-GAN/model/*
+
+02_PFA-GAN/models/
+02_PFA-GAN/models/*
+
+02_PFA-GAN/test/
+02_PFA-GAN/test/*
+
