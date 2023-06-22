@@ -12,16 +12,4 @@ In den Ordner `02_PFA-GAN` ist der Code des Papers [PFA-GAN: Progressive Face Ag
 
 ### Nvidia Apex
 
-Zusätzlich wird von Nvidia die [Apex](https://github.com/NVIDIA/apex) Bibliothek benötigt. 
-
-### Dataset
-
-Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval
-
-[Reference](https://bcsiriuschen.github.io/CARC/)
-
-### VGG - Age Classifier
-
-VGG implementation from [InterDigitalInc](https://github.com/InterDigitalInc/HRFAE/blob/master/nets.py)
-
-[Model Weights](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html)
+Zusätzlich wird von Nvidia die [Apex](https://github.com/NVIDIA/apex) Bibliothek benötigt.
