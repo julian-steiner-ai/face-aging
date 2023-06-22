@@ -128,10 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data
-/data
-/data/*
-
 # Weights
 model/gan/weights/weights-*.h5
 
@@ -143,22 +139,3 @@ GenerativeAdversarialNetwork-checkpoint*.ipynb
 # Azure amlignore
 .amlignore
 .amlignore.amltmp 
-
-01_GAN/data/
-01_GAN/data/*
-
-01_GAN/model/
-01_GAN/model/*
-
-02_PFA-GAN/data/
-02_PFA-GAN/data/*
-
-02_PFA-GAN/model/
-02_PFA-GAN/model/*
-
-02_PFA-GAN/models/
-02_PFA-GAN/models/*
-
-02_PFA-GAN/test/
-02_PFA-GAN/test/*
-
