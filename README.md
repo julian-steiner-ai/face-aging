@@ -4,7 +4,7 @@ Dieses Repository wurde für das Modul "Aktuelle Themen der künstlichen Intelli
 
 ## GAN
 
-In den Ordner `01_GAN' findet ihr eine Implementierung eines Generative Adversarial Networks mit dem PyTorch-Framework. In den Unterordnern sind in den einzelnen README-Dateien weitere Informationen, z.B. wo ihr die Datensätzen oder Vortrainierte Gewichte downloaden könnt.
+In den Ordner `01_GAN` findet ihr eine Implementierung eines Generative Adversarial Networks mit dem PyTorch-Framework. In den Unterordnern sind in den einzelnen README-Dateien weitere Informationen, z.B. wo ihr die Datensätzen oder Vortrainierte Gewichte downloaden könnt.
 
 ## PFA-GAN
 
