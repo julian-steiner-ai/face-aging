@@ -8,7 +8,7 @@ In den Ordner `01_GAN` findet ihr eine Implementierung eines Generative Adversar
 
 ## PFA-GAN
 
-In den Ordner `02_PFA-GAN` ist der Code des Papers [PFA-GAN: Progressive Face Aging with Generative Adversarial Network](https://arxiv.org/abs/2012.03459)] implementiert. Orientiert habe ich mich dabei an dieses [Repository](https://github.com/Hzzone/PFA-GAN). Dies ist auch die  offizielle GitHub-Repository zum Paper. In den Unterordnern findet ihr ebenfalls wieder einzelne README-Dateien mit weiteren Informationen zu den Datensätzen, Gewichten und vortraninierten Modellen.
+In den Ordner `02_PFA-GAN` ist der Code des Papers [PFA-GAN: Progressive Face Aging with Generative Adversarial Network](https://arxiv.org/abs/2012.03459)] implementiert. Orientiert habe ich mich dabei an diesem [Repository](https://github.com/Hzzone/PFA-GAN). Dies ist auch die  offizielle GitHub-Repository zum Paper. In den Unterordnern findet ihr ebenfalls wieder einzelne README-Dateien mit weiteren Informationen zu den Datensätzen, Gewichten und vortraninierten Modellen.
 
 ### Nvidia Apex
 
