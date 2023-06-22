@@ -1,0 +1,3 @@
+# VGG - Age Classifier
+
+Wir benötigen für die PFA-GAN Implementierung ein VGGNet um das Alter einer Person im Bild zu klassifizieren. Hierbei verwendete ich den Code von [InterDigitalInc](https://github.com/InterDigitalInc/HRFAE/blob/master/nets.py). Die Gewichte könnt ihr auf der folgenden [Website](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html) oder [hier](https://nextcloud.th-deg.de/s/tLDEBQo5KKELXeb) downloaden.
